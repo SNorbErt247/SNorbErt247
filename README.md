@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SNorbErt247
 - 👀 I’m interested in ... Video Games, Coding, Editing, Photoshop, Content Creation, and Pizza
-- 🌱 I’m currently learning ... Frontend and Machine Learning
+- 🌱 I’m currently learning ... Unity and C##
 - 💞️ I’m looking to collaborate on ... anything
 - 📫 How to reach me ... TBA
 - ⚡ Fun fact: ... Pizza
